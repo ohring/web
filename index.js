@@ -4,5 +4,5 @@ $('#fullpage').fullpage({
     scrollHorizontally: true,
     navigation:true,
     menu:'.nav',
-    anchors:['1page', '2page','3page','4page','5page','6page']
+    anchors:['1page', '2page','3page','4page','5page','6page','7page']
 });

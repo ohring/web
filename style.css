@@ -13,7 +13,6 @@ a:link , a:visited{
     position: relative;
 }
 
-
 #fullpage .arr{
     width: 40px;
     position: absolute;
@@ -34,6 +33,49 @@ a:link , a:visited{
 #fullpage div:nth-child(2) .bg2{
     background: url(./images/profile2.jpg) top/cover;
 }
+
+
+#fullpage div:nth-child(3) .bg1{
+    background: url(./images/mainpage1.jpg) top/cover;
+}
+#fullpage div:nth-child(3) .bg2{
+    background: url(./images/mainpage2.jpg) top/cover;
+}
+#fullpage div:nth-child(3) .bg3{
+    background: url(./images/mainpage3.jpg) top/cover;
+}
+#fullpage div:nth-child(3) .bg4{
+    background: url(./images/mainpage4.jpg) top/cover;
+}
+
+
+#fullpage div:nth-child(4) .bg1{
+    background: url(./images/detail1.jpg) top/cover;
+}
+#fullpage div:nth-child(4) .bg2{
+    background: url(./images/detail2.jpg) top/cover;
+}
+
+
+#fullpage div:nth-child(5) {
+    background: url(./images/banner.jpg) top/cover;
+}
+
+
+#fullpage div:nth-child(6) .bg1{
+    background: url(./images/cardnews1.jpg) top/cover;
+}
+#fullpage div:nth-child(6) .bg2{
+    background: url(./images/cardnews2.jpg) top/cover;
+}
+
+
+#fullpage div:nth-child(7) {
+    background: url(./images/outro.jpg) top/cover;
+}
+
+
+
 
 
 .nav{

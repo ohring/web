@@ -127,12 +127,12 @@ html.fp-enabled,
     left: 20px;
     width: 0;
     border-width: 38.5px 34px 38.5px 0;
-    border-color: transparent #2B3D1E transparent transparent;
+    border-color: transparent #AFA125 transparent transparent;
 }
 .fp-controlArrow.fp-next {
     right: 45px;
     border-width: 38.5px 0 38.5px 34px;
-    border-color: transparent transparent transparent #2B3D1E ;
+    border-color: transparent transparent transparent #AFA125 ;
 }
 .fp-scrollable {
     overflow: hidden;
